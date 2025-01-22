@@ -5,6 +5,6 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   // base 的寫法：
   // base: '/Repository 的名稱/'
-  base: "/2024-hexschool-react-training-2/week2/",
+  base: "/2024-hexschool-react-training-2/",
   plugins: [react()],
 });
